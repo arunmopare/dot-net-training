@@ -1,0 +1,7 @@
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\bin\Debug\Day3Assignment3.exe.config
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\bin\Debug\Day3Assignment3.exe
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\bin\Debug\Day3Assignment3.pdb
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\obj\Debug\Day3Assignment3.csproj.AssemblyReference.cache
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\obj\Debug\Day3Assignment3.csproj.CoreCompileInputs.cache
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\obj\Debug\Day3Assignment3.exe
+C:\Training\Trainig Assignments\DAY 2\Day3Assignment3\Day3Assignment3\obj\Debug\Day3Assignment3.pdb
